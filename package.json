@@ -1,5 +1,5 @@
 {
-  "name": "app-name",
+  "name": "serafinfernandez",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -12,5 +12,8 @@
   },
   "scripts": {
     "start": "node server.js"
+  }, 
+  "engines":{
+    "node": "0.10.x"
   }
 }
